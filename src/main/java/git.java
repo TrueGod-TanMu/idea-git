@@ -3,6 +3,6 @@ public class git {
         System.out.println("git 1");
         System.out.println("git 2");
         System.out.println("git 3");
-        System.out.println("git hot 4");
+        System.out.println("master");
     }
 }
